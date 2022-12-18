@@ -1,0 +1,1 @@
+create table article (id serial primary key, title varchar(50) not null, content varchar(250) not null);
